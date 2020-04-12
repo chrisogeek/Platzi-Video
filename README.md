@@ -3,10 +3,10 @@
 This project is a nice login and landing page developed with HTML and CSS using Flex and CSS grid.
 
 ## Preview
-Langing page
+Landing page
 ![](https://github.com/chrisogeek/Platzi-Video/blob/master/Platzi%20Video.png)
 
-Loging
+Login Page
 ![](https://github.com/chrisogeek/Platzi-Video/blob/master/Platzi%20Video-login.png)
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
